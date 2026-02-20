@@ -395,4 +395,5 @@ The downloadable JSON follows the exact schema required by the hackathon:
 
 ---
 
-*Built with ❤️ by Team FraudnetX for RIFT 2026 Hackathon — Graph Theory / Financial Crime Detection Track*
+
+
