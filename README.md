@@ -1,6 +1,6 @@
 # 🕵️ FraudnetX
 
-**Graph-Based Financial Crime Detection Engine** — RIFT 2026 Hackathon | Graph Theory Track
+**Graph-Based Financial Crime Detection Engine** | Graph Theory Track
 
 A web-based Financial Forensics Engine that processes transaction CSV data and exposes money muling networks through graph analysis, interactive visualization, and downloadable JSON reports.
 
